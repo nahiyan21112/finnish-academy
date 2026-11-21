@@ -1,0 +1,8 @@
+{
+  "appId": "com.opensource.finnishacademy",
+  "appName": "Finnish Academy",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
